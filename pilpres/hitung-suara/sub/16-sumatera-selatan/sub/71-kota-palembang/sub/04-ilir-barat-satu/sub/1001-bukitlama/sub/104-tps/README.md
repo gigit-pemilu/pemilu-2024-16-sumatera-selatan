@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 119
+    bar [48, 119, 20]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 48
+    "2" : 119
+    "3" : 20
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 48    | [48][p-1]   | 25,67      |
+| 2   | PRABOWO GIBRAN | 119   | [119][p-2]  | 63,64      |
+| 3   | GANJAR MAHFUD  | 20    | [20][p-3]   | 10,70      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/16-sumatera-selatan/sub/71-kota-palembang/sub/04-ilir-barat-satu/sub/1001-bukitlama/sub/104-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/16-sumatera-selatan/sub/71-kota-palembang/sub/04-ilir-barat-satu/sub/1001-bukitlama/sub/104-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/16-sumatera-selatan/sub/71-kota-palembang/sub/04-ilir-barat-satu/sub/1001-bukitlama/sub/104-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/05f8/pemilu/ppwp/16/71/04/10/01/1671041001104-20240215-004715--9d42ebed-87a5-49dd-8335-46add0facfbe.jpg
+
+https://sirekap-obj-formc.kpu.go.id/05f8/pemilu/ppwp/16/71/04/10/01/1671041001104-20240215-010619--57072d41-dfed-4014-ab2d-e4379c0afd4d.jpg
+
+https://sirekap-obj-formc.kpu.go.id/05f8/pemilu/ppwp/16/71/04/10/01/1671041001104-20240215-010655--8a0d512b-5d13-479e-931a-d4219aa17ecf.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-25 12:00:00 |
+
+
+
