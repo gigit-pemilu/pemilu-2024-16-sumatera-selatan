@@ -4,7 +4,7 @@
 
 https://sirekap-obj-formc.kpu.go.id/7883/pemilu/pdpr/16/71/16/10/03/1671161003029-20240214-202515--25d1add3-0f74-429e-8c52-5c60fc4ee644.jpg
 
-https://sirekap-obj-formc.kpu.go.id/7883/pemilu/pdpr/16/71/16/10/03/1671161003029-20240214-202617--60c2dead-5adf-4de5-b5a5-26972c22aff9.jpg
+https://sirekap-obj-formc.kpu.go.id/7883/pemilu/pdpr/16/71/16/10/03/1671161003029-20240313-154317--a3271096-0a76-4e53-8929-e9ceac561e75.jpg
 
 https://sirekap-obj-formc.kpu.go.id/7883/pemilu/pdpr/16/71/16/10/03/1671161003029-20240214-202709--aa25c048-e2e8-4c83-b681-f7e567e97a45.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/7883/pemilu/pdpr/16/71/16/10/03/167116100302
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-13 16:04:19 |
 | Kode Dapil | 1601                |
 
 

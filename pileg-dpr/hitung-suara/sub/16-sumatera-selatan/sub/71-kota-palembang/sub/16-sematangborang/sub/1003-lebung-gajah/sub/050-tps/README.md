@@ -2,7 +2,7 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/1a36/pemilu/pdpr/16/71/16/10/03/1671161003050-20240215-045916--53cc32c6-2720-4d8d-ab07-10ca253419aa.jpg
+https://sirekap-obj-formc.kpu.go.id/1a36/pemilu/pdpr/16/71/16/10/03/1671161003050-20240314-114737--a6a20df1-dbf9-4737-8195-6bcf49a0951b.jpg
 
 https://sirekap-obj-formc.kpu.go.id/1a36/pemilu/pdpr/16/71/16/10/03/1671161003050-20240215-050045--95bff577-7b1a-4515-8726-01e5c2b1f49f.jpg
 
@@ -40,14 +40,14 @@ https://sirekap-obj-formc.kpu.go.id/1a36/pemilu/pdpr/16/71/16/10/03/167116100305
 
 https://sirekap-obj-formc.kpu.go.id/1a36/pemilu/pdpr/16/71/16/10/03/1671161003050-20240215-053905--28a9737d-8831-4b35-8fd9-714561a526b1.jpg
 
-https://sirekap-obj-formc.kpu.go.id/1a36/pemilu/pdpr/16/71/16/10/03/1671161003050-20240215-054135--56c1e40f-9899-4d4a-a193-2d3afe9242b4.jpg
+https://sirekap-obj-formc.kpu.go.id/1a36/pemilu/pdpr/16/71/16/10/03/1671161003050-20240314-114753--a59d3c2b-fb15-4990-a6c2-932806fa3a68.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-14 12:03:49 |
 | Kode Dapil | 1601                |
 
 

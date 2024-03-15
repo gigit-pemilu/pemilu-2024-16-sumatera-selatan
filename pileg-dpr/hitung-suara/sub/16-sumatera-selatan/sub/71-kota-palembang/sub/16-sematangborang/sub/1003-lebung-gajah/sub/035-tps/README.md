@@ -2,7 +2,7 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/1671161003035-20240214-215921--fde0959f-2dd5-4ad1-aa75-1b6bbfe49302.jpg
+https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/1671161003035-20240313-155239--11a68c14-662c-4a95-9101-afb05e34d089.jpg
 
 https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/1671161003035-20240214-220016--3ef179ae-b562-4eb1-a61a-b4712d218769.jpg
 
@@ -10,7 +10,7 @@ https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/167116100303
 
 https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/1671161003035-20240214-220134--8f61fb3c-626f-4984-b563-036bdd8c9dc2.jpg
 
-https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/1671161003035-20240214-220431--96bb2e2e-5fc3-487b-a70b-3602284a07cd.jpg
+https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/1671161003035-20240313-155301--be49838b-72dd-4318-ade6-38d46d2e0424.jpg
 
 https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/1671161003035-20240214-220555--e82628b4-ca6a-4199-bebb-5a6c1ab3fa0b.jpg
 
@@ -34,7 +34,7 @@ https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/167116100303
 
 https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/1671161003035-20240214-221045--44368de3-bc62-4396-b110-4e9848e18f9c.jpg
 
-https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/1671161003035-20240214-221150--43a72d64-0649-458e-b1dc-bf16e79de61e.jpg
+https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/1671161003035-20240313-155317--40a90c2f-500f-4cdd-b4ce-a7f0c32f198f.jpg
 
 https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/1671161003035-20240214-221212--57380b18-b1e0-4b18-95d0-ef1683ff1d3a.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/e14c/pemilu/pdpr/16/71/16/10/03/167116100303
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-13 16:04:19 |
 | Kode Dapil | 1601                |
 
 
